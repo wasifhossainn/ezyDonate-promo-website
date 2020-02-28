@@ -1,4 +1,4 @@
-# **ezyDonate-promo-website**
+# **ezyDonate promo website**
 
 Promotional website showcasing ezyDonate
 
